@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myshop-dependencies/myshop-dependencies.iml" filepath="$PROJECT_DIR$/myshop-dependencies/myshop-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-alibaba-my-shop.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-alibaba-my-shop.iml" />
+    </modules>
+  </component>
+</project>
